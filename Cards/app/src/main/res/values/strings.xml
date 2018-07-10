@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pokemon Cards</string>
+    <string name="defaultCard">Default Material Card Style </string>
+    <string name="customCard">Custom Material Card Style</string>
+    <string name="type">Type:</string>
+    <string name="ability">Ability:</string>
+    <string name="material_card">Material Card</string>
+    <string name="Click">click</string>
+    <string name="explore">EXPLORE</string>
+    <string name="share">SHARE</string>
+</resources>
